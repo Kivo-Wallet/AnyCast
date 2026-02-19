@@ -1,6 +1,6 @@
-# AnyCast — The Social Wallet + Onchain App Store for Stellar
+# AnyCast
 
-The All-in-One Social Identity + Payments + dApp Discovery Hub Powered by Stellar & Soroban
+## The All-in-One Social Identity + Payments + dApp Discovery Hub Powered by Stellar & Soroban
 
 AnyCast is a next-generation social wallet and dApp discovery platform that fuses identity, payments, and smart-contract interactions into a single, frictionless onchain experience. Inspired by the elegance of Base App from Coinbase, AnyCast brings a unified ecosystem layer to Stellar.
 
